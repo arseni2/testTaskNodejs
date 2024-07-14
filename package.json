@@ -1,0 +1,21 @@
+{
+  "name": "testtasknodejs",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/pg": "^8.11.6",
+    "axios": "^1.7.2",
+    "pg": "^8.12.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
